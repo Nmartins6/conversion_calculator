@@ -20,6 +20,4 @@ This project is a simple calculator that converts numbers between different nume
 
 ### Compile the main program:
 ```bash
-gcc src/main.c src/conversions.c -o build/conversion_calculator
 
-./build/conversion_calculator`
